@@ -1,0 +1,6 @@
+framework module Pods_Michigan_Tickets_App {
+  umbrella header "Pods-Michigan Tickets App-umbrella.h"
+
+  export *
+  module * { export * }
+}
